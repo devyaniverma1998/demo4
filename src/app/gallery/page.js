@@ -1,3 +1,4 @@
+import Image from "next/image";
 export default function Gallery() {
     return (
       <div className="p-4">
@@ -7,27 +8,27 @@ export default function Gallery() {
           gallery page.
         </p>
         <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
-          <img
+          <Image
             src="https://picsum.photos/200/300"
             alt="Random image from picsum.photos"
             className="w-full h-auto"
           />
-          <img
+          <Image
             src="https://picsum.photos/200/301"
             alt="Random image from picsum.photos"
             className="w-full h-auto"
           />
-          <img
+          <Image
             src="https://picsum.photos/200/302"
             alt="Random image from picsum.photos"
             className="w-full h-auto"
           />
-          <img
+          <Image
             src="https://picsum.photos/200/303"
             alt="Random image from picsum.photos"
             className="w-full h-auto"
           />
-          <img
+          <Image
             src="https://picsum.photos/200/304"
             alt="Random image from picsum.photos"
             className="w-full h-auto"
