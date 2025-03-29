@@ -1,6 +1,6 @@
 import Link from "next/link";
-
 import Image from "next/image";
+
 export default function Header() {
 
 
@@ -63,7 +63,8 @@ export default function Header() {
                                 <div className="header-logo">
                                     <Link href="/"
                                     >
-                                       <h2>Rasm</h2>
+                                        <img src="/img/logo-black.svg" alt="Rasm"
+                                        />
                                         </Link >
                                 </div>
                             </div>
