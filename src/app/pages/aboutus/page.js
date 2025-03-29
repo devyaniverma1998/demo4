@@ -1,3 +1,4 @@
+import Link from "next/link"
 export default function AboutUs() {
     return (
       <>
@@ -20,12 +21,12 @@ export default function AboutUs() {
                     </div>
                 </div>
                 <div className="video-group text-center">
-                    <a href="/about" className="th-btn"
+                    <Link href="/about" className="th-btn"
                     >More About Us<i className="fa-regular fa-arrow-right ms-2"></i
-                    ></a>
-                    <a href="tel:+256214203215" className="th-btn style2"
+                    ></Link>
+                    <Link href="tel:+256214203215" className="th-btn style2"
                     >Make A Call<i className="fa-regular fa-arrow-right ms-2"></i
-                    ></a>
+                    ></Link>
                 </div>
                 <div className="row gy-4 align-items-center"    >
                     <div className="col-xl-6 col-xxl-8" >
@@ -34,11 +35,11 @@ export default function AboutUs() {
                             data-bg-src="/img/normal/video_1.jpg"
                         >
                             <img src="/img/normal/video_1.jpg" alt="video" />
-                            <a
+                            <Link
                                 href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
                                 className="video-play-btn play-btn popup-video"
                             ><i className="fa-sharp fa-solid fa-play"></i
-                            ></a>
+                            ></Link>
                         </div>
                     </div>
                     <div className="col-xl-6 col-xxl-4" >

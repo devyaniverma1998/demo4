@@ -1,5 +1,5 @@
 "use client"; // ✅ Ensure this runs only on the client
-
+import Link from "next/link";
 import { useEffect, useRef } from "react";
 // Remove jQuery dependency if possible, or ensure it's properly installed
 // import $ from "jquery";
@@ -108,10 +108,10 @@ export default function Hero() {
                     data-ani="slideinup"
                     data-ani-delay="0.3s"
                   >
-                    <a href="/about" className="th-btn">
+                   <Link href="/about" className="th-btn">
                       Discover More
                       <i className="fa-regular fa-arrow-right ms-2"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -189,10 +189,10 @@ export default function Hero() {
                     data-ani="slideinup"
                     data-ani-delay="0.3s"
                   >
-                    <a href="/about" className="th-btn">
+                   <Link href="/about" className="th-btn">
                       Discover More
                       <i className="fa-regular fa-arrow-right ms-2"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -270,10 +270,10 @@ export default function Hero() {
                     data-ani="slideinup"
                     data-ani-delay="0.3s"
                   >
-                    <a href="/about" className="th-btn">
+                   <Link href="/about" className="th-btn">
                       Discover More
                       <i className="fa-regular fa-arrow-right ms-2"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>

@@ -1,3 +1,4 @@
+import Link from "next/link"
 export default function Space(){
     return(
         <section className="space" style={{ backgroundImage: "url('/img/bg/price_bg_1.jpg')" }}>
@@ -13,7 +14,7 @@ export default function Space(){
                 <div className="price-box wow fadeInUp">
                   <div className="price-box_wrapp">
                     <div className="price-box_content">
-                      <h4 className="box-title"><a href="/pages/price">Manicure</a></h4>
+                      <h4 className="box-title"><Link href="/pages/price">Manicure</Link></h4>
                       <p className="price-box_desc">Elemental tempus getas</p>
                     </div>
                     <span className="price-box_price">$26</span>
@@ -23,7 +24,7 @@ export default function Space(){
                   <div className="price-box_wrapp">
                     <div className="price-box_content">
                       <h4 className="box-title">
-                        <a href="/pages/price">Nail Clippers</a>
+                       <Link href="/pages/price">Nail Clippers</Link>
                       </h4>
                       <p className="price-box_desc">
                         Quality products, customized services
@@ -36,7 +37,7 @@ export default function Space(){
                   <div className="price-box_wrapp">
                     <div className="price-box_content">
                       <h4 className="box-title">
-                        <a href="/pages/price">Manicure & Pedicure</a>
+                       <Link href="/pages/price">Manicure & Pedicure</Link>
                       </h4>
                       <p className="price-box_desc">Premium quality nail polishes</p>
                     </div>
@@ -47,7 +48,7 @@ export default function Space(){
                   <div className="price-box_wrapp">
                     <div className="price-box_content">
                       <h4 className="box-title">
-                        <a href="/pages/price">Hand/nail Moisturizer</a>
+                       <Link href="/pages/price">Hand/nail Moisturizer</Link>
                       </h4>
                       <p className="price-box_desc">
                         Rejuvenating hand or foot massage
@@ -59,7 +60,7 @@ export default function Space(){
                 <div className="price-box wow fadeInUp">
                   <div className="price-box_wrapp">
                     <div className="price-box_content">
-                      <h4 className="box-title"><a href="/pages/price">Nail Art</a></h4>
+                      <h4 className="box-title"><Link href="/pages/price">Nail Art</Link></h4>
                       <p className="price-box_desc">Vibrant colors, finishes</p>
                     </div>
                     <span className="price-box_price">$46</span>

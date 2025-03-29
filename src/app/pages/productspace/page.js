@@ -2,6 +2,7 @@
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import Link from "next/link";
 
 export default function ProductSpace() {
     const settings = {
@@ -44,45 +45,45 @@ export default function ProductSpace() {
                         <Slider {...settings} className="th-carousel">
                             {/* Brand 1 */}
                             <div className="brand-box">
-                                <a href="#">
+                               <Link href="#">
                                     <img className="original" src="/img/brand/brand_1_1.png" alt="Brand Logo" />
                                     <img className="gray" src="/img/brand/brand_1_1.png" alt="Brand Logo" />
-                                </a>
+                               </Link>
                             </div>
                             {/* Brand 2 */}
                             <div className="brand-box">
-                                <a href="#">
+                               <Link href="#">
                                     <img className="original" src="/img/brand/brand_1_2.png" alt="Brand Logo" />
                                     <img className="gray" src="/img/brand/brand_1_2.png" alt="Brand Logo" />
-                                </a>
+                               </Link>
                             </div>
                             {/* Brand 3 */}
                             <div className="brand-box">
-                                <a href="#">
+                               <Link href="#">
                                     <img className="original" src="/img/brand/brand_1_3.png" alt="Brand Logo" />
                                     <img className="gray" src="/img/brand/brand_1_3.png" alt="Brand Logo" />
-                                </a>
+                               </Link>
                             </div>
                             {/* Brand 4 */}
                             <div className="brand-box">
-                                <a href="#">
+                               <Link href="#">
                                     <img className="original" src="/img/brand/brand_1_4.png" alt="Brand Logo" />
                                     <img className="gray" src="/img/brand/brand_1_4.png" alt="Brand Logo" />
-                                </a>
+                               </Link>
                             </div>
                             {/* Brand 5 */}
                             <div className="brand-box">
-                                <a href="#">
+                               <Link href="#">
                                     <img className="original" src="/img/brand/brand_1_5.png" alt="Brand Logo" />
                                     <img className="gray" src="/img/brand/brand_1_5.png" alt="Brand Logo" />
-                                </a>
+                               </Link>
                             </div>
                             {/* Brand 6 */}
                             <div className="brand-box">
-                                <a href="#">
+                               <Link href="#">
                                     <img className="original" src="/img/brand/brand_1_6.png" alt="Brand Logo" />
                                     <img className="gray" src="/img/brand/brand_1_6.png" alt="Brand Logo" />
-                                </a>
+                               </Link>
                             </div>
                         </Slider>
                     </div>

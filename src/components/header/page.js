@@ -16,11 +16,11 @@ export default function Header() {
                                 <ul>
                                     <li>
                                         <i className="far fa-phone"></i
-                                        ><a href="tel:+256214203215">+256 214 203 215</a>
+                                        ><Link href="tel:+256214203215">+256 214 203 215</Link >
                                     </li>
                                     <li>
                                         <i className="far fa-envelope"></i
-                                        ><a href="mailto:info@rasm.com">info@rasm.com</a>
+                                        ><Link href="mailto:info@rasm.com">info@rasm.com</Link >
                                     </li>
                                     <li>
                                         <i className="fal fa-location-dot"></i>25 Street, 145 City Town,
@@ -36,20 +36,20 @@ export default function Header() {
                         <div className="col-auto">
                             <div className="social-links">
                                 <span className="social-title">Follow Us:</span>
-                                <a href="https://www.facebook.com/"
+                                <Link href="https://www.facebook.com/"
                                 ><i className="fab fa-facebook-f"></i
-                                ></a>
-                                <a href="https://www.twitter.com/"
+                                ></Link >
+                                <Link href="https://www.twitter.com/"
                                 ><i className="fab fa-twitter"></i
-                                ></a>
-                                <a href="https://www.linkedin.com/"
-                                ><i className="fab fa-linkedin-in"></i> </a
-                                ><a href="https://www.instagram.com/"
+                                ></Link >
+                                <Link href="https://www.linkedin.com/"
+                                ><i className="fab fa-linkedin-in"></i></Link >
+                                <Link href="https://www.instagram.com/"
                                 ><i className="fab fa-instagram"></i
-                                ></a>
-                                <a href="https://www.youtube.com/"
+                                ></Link >
+                                <Link href="https://www.youtube.com/"
                                 ><i className="fab fa-youtube"></i
-                                ></a>
+                                ></Link >
                             </div>
                         </div>
                     </div>
@@ -61,30 +61,30 @@ export default function Header() {
                         <div className="row align-items-center justify-content-between">
                             <div className="col-auto">
                                 <div className="header-logo">
-                                    <a href="/"
+                                    <Link href="/"
                                     ><img src="/img/logo-black.svg" alt="Rasm"
-                                        /></a>
+                                        /></Link >
                                 </div>
                             </div>
                             <div className="col-auto me-xl-auto">
                                 <nav className="main-menu d-none d-lg-inline-block">
                                     <ul>
                                         <li >
-                                            <a href="/">Home</a>
+                                            <Link href="/">Home</Link >
 
                                         </li>
                                         <li >
-                                            <a href="/about">About us</a>
+                                            <Link href="/about">About us</Link >
 
                                         </li>
                                         <li >
-                                            <a href="/serve">Services</a>
+                                            <Link href="/serve">Services</Link >
 
                                         </li>
 
 
-                                        <li ><a href="/blog">Blog</a> </li>
-                                        <li><a href="/contact">Contact Us</a></li>
+                                        <li ><Link href="/blog">Blog</Link > </li>
+                                        <li><Link href="/contact">Contact Us</Link></li>
                                     </ul>
                                 </nav>
                                 <button className="th-menu-toggle d-inline-block d-lg-none">
@@ -96,16 +96,16 @@ export default function Header() {
                                     <button type="button" className="icon-btn searchBoxToggler">
                                         <i className="fas fa-search"></i>
                                     </button>
-                                    <a href="#" className="icon-btn sideMenuToggler2">
+                                    <Link href="#" className="icon-btn sideMenuToggler2">
                                         <i className="fas fa-cart-shopping"></i>
                                         <span className="badge">5</span>
-                                    </a>
-                                    <a href="#" className="icon-btn sideMenuToggler">
-                                        <i className="fas fa-grip"></i> 
-                                    </a>
-                                    <a href="/contact" className="th-btn style3">
+                                    </Link >
+                                    <Link href="#" className="icon-btn sideMenuToggler">
+                                        <i className="fas fa-grip"></i>
+                                    </Link >
+                                    <Link href="/contact" className="th-btn style3">
                                         Appointment Now <i className="fas fa-arrow-right ms-2"></i>
-                                    </a>
+                                    </Link >
                                 </div>
                             </div>
 
