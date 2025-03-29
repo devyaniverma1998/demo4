@@ -31488,3 +31488,7 @@ span.select2-selection.select2-selection--single:focus {
 .testi-grid .slick-slide img {
   display: inline !important;
 }
+
+ul li a{
+  text-decoration: none !important;
+}

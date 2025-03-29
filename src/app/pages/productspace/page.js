@@ -47,43 +47,43 @@ export default function ProductSpace() {
                             {/* Brand 1 */}
                             <div className="brand-box">
                                <Link href="#">
-                                    <img className="original" src="/img/brand/brand_1_1.png" alt="Brand Logo" />
-                                    <img className="gray" src="/img/brand/brand_1_1.png" alt="Brand Logo" />
+                                   <img className="original" src="/img/brand/brand_1_1.png" alt="Brand Logo" />
+                                   <img className="gray" src="/img/brand/brand_1_1.png" alt="Brand Logo" />
                                </Link>
                             </div>
                             {/* Brand 2 */}
                             <div className="brand-box">
                                <Link href="#">
-                                    <img className="original" src="/img/brand/brand_1_2.png" alt="Brand Logo" />
-                                    <img className="gray" src="/img/brand/brand_1_2.png" alt="Brand Logo" />
+                                   <img className="original" src="/img/brand/brand_1_2.png" alt="Brand Logo" />
+                                   <img className="gray" src="/img/brand/brand_1_2.png" alt="Brand Logo" />
                                </Link>
                             </div>
                             {/* Brand 3 */}
                             <div className="brand-box">
                                <Link href="#">
-                                    <img className="original" src="/img/brand/brand_1_3.png" alt="Brand Logo" />
-                                    <img className="gray" src="/img/brand/brand_1_3.png" alt="Brand Logo" />
+                                   <img className="original" src="/img/brand/brand_1_3.png" alt="Brand Logo" />
+                                   <img className="gray" src="/img/brand/brand_1_3.png" alt="Brand Logo" />
                                </Link>
                             </div>
                             {/* Brand 4 */}
                             <div className="brand-box">
                                <Link href="#">
-                                    <img className="original" src="/img/brand/brand_1_4.png" alt="Brand Logo" />
-                                    <img className="gray" src="/img/brand/brand_1_4.png" alt="Brand Logo" />
+                                   <img className="original" src="/img/brand/brand_1_4.png" alt="Brand Logo" />
+                                   <img className="gray" src="/img/brand/brand_1_4.png" alt="Brand Logo" />
                                </Link>
                             </div>
                             {/* Brand 5 */}
                             <div className="brand-box">
                                <Link href="#">
-                                    <img className="original" src="/img/brand/brand_1_5.png" alt="Brand Logo" />
-                                    <img className="gray" src="/img/brand/brand_1_5.png" alt="Brand Logo" />
+                                   <img className="original" src="/img/brand/brand_1_5.png" alt="Brand Logo" />
+                                   <img className="gray" src="/img/brand/brand_1_5.png" alt="Brand Logo" />
                                </Link>
                             </div>
                             {/* Brand 6 */}
                             <div className="brand-box">
                                <Link href="#">
-                                    <img className="original" src="/img/brand/brand_1_6.png" alt="Brand Logo" />
-                                    <img className="gray" src="/img/brand/brand_1_6.png" alt="Brand Logo" />
+                                   <img className="original" src="/img/brand/brand_1_6.png" alt="Brand Logo" />
+                                   <img className="gray" src="/img/brand/brand_1_6.png" alt="Brand Logo" />
                                </Link>
                             </div>
                         </Slider>
@@ -100,7 +100,7 @@ export default function ProductSpace() {
                                 <div className="newsletter-content">
                                     <div className="title-area text-center mb-30">
                                         <span className="sub-title style2 text-white">Subscribe to Newsletter</span>
-                                        <img src="/img/theme-img/title_shape_2.svg" alt="" />
+                                       <img src="/img/theme-img/title_shape_2.svg" alt="not found" />
                                         <h2 className="sec-title text-white">Sign Up To Get Updates & News About Us</h2>
                                     </div>
                                     <form className="newsletter-form">

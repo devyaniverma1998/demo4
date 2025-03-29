@@ -33,7 +33,7 @@ export default function Product() {
             <div className="container">
                 <div className="title-area text-center">
                     <span className="sub-title style2">Our Products</span>
-                    <img src="/img/theme-img/title_shape_1.svg" alt="" />
+                   <img src="/img/theme-img/title_shape_1.svg" alt="not found" />
                     <h2 className="sec-title">Our Latest Nail Products</h2>
                 </div>
 
@@ -43,7 +43,7 @@ export default function Product() {
                     <div className="col-xl-3 col-lg-4 col-md-6">
                         <div className="th-product product-grid">
                             <div className="product-img">
-                                <img src="/img/product/product_1_1.jpg" alt="Product Image" />
+                               <img src="/img/product/product_1_1.jpg" alt="Product Image" />
                                 <div className="product-action style1">
                                    <Link href="/">
                                         <span className="action-text">Add To Cart</span>
@@ -75,7 +75,7 @@ export default function Product() {
                     <div className="col-xl-3 col-lg-4 col-md-6">
                         <div className="th-product product-grid">
                             <div className="product-img">
-                                <img src="/img/product/product_1_2.jpg" alt="Product Image" />
+                               <img src="/img/product/product_1_2.jpg" alt="Product Image" />
                                 <div className="product-action style1">
                                    <Link href="/">
                                         <span className="action-text">Add To Cart</span>
@@ -107,7 +107,7 @@ export default function Product() {
                     <div className="col-xl-3 col-lg-4 col-md-6">
                         <div className="th-product product-grid">
                             <div className="product-img">
-                                <img src="/img/product/product_1_3.jpg" alt="Product Image" />
+                               <img src="/img/product/product_1_3.jpg" alt="Product Image" />
                                 <div className="product-action style1">
                                    <Link href="/">
                                         <span className="action-text">Add To Cart</span>
@@ -139,7 +139,7 @@ export default function Product() {
                     <div className="col-xl-3 col-lg-4 col-md-6">
                         <div className="th-product product-grid">
                             <div className="product-img">
-                                <img src="/img/product/product_1_4.jpg" alt="Product Image" />
+                               <img src="/img/product/product_1_4.jpg" alt="Product Image" />
                                 <div className="product-action style1">
                                    <Link href="/">
                                         <span className="action-text">Add To Cart</span>
@@ -172,10 +172,10 @@ export default function Product() {
 
             {/* Decorative Shapes */}
             <div className="shape-mockup jump d-none d-xl-block" data-top="0%" data-left="0%">
-                <img src="/img/shape/leaves_3.png" alt="shape" />
+               <img src="/img/shape/leaves_3.png" alt="shape" />
             </div>
             <div className="shape-mockup jump d-none d-xl-block" data-top="5%" data-right="0%">
-                <img src="/img/shape/flower_1_6.png" alt="shape" />
+               <img src="/img/shape/flower_1_6.png" alt="shape" />
             </div>
         </section>
     );

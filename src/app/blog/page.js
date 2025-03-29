@@ -43,7 +43,7 @@ export default function Blog() {
         <div className="container">
           <div className="title-area text-center">
             <span className="sub-title style2">Our Blog</span>
-            <img src="/img/theme-img/title_shape_1.svg" alt="" />
+           <img src="/img/theme-img/title_shape_1.svg" alt="not found" />
             <h2 className="sec-title">Our Latest News & Blog</h2>
           </div>
           <div
@@ -59,7 +59,7 @@ export default function Blog() {
             <div className="col-md-6 col-xl-4">
               <div className="blog-box wow fadeInUp">
                 <div className="blog-img">
-                  <img src="/img/blog/blog_2_1.jpg" alt="blog image" />
+                 <img src="/img/blog/blog_2_1.jpg" alt="blog image" />
                   <div className="blog-wrapper">
                     <span className="blog-box_date">22</span>
                     <span className="blog-box_month">May 2024</span>
@@ -89,7 +89,7 @@ export default function Blog() {
             <div className="col-md-6 col-xl-4">
               <div className="blog-box wow fadeInDown">
                 <div className="blog-img">
-                  <img src="/img/blog/blog_2_2.jpg" alt="blog image" />
+                 <img src="/img/blog/blog_2_2.jpg" alt="blog image" />
                   <div className="blog-wrapper">
                     <span className="blog-box_date">24</span>
                     <span className="blog-box_month">Jun 2024</span>
@@ -119,7 +119,7 @@ export default function Blog() {
             <div className="col-md-6 col-xl-4">
               <div className="blog-box wow fadeInUp">
                 <div className="blog-img">
-                  <img src="/img/blog/blog_2_3.jpg" alt="blog image" />
+                 <img src="/img/blog/blog_2_3.jpg" alt="blog image" />
                   <div className="blog-wrapper">
                     <span className="blog-box_date">26</span>
                     <span className="blog-box_month">July 2024</span>
@@ -149,7 +149,7 @@ export default function Blog() {
             <div className="col-md-6 col-xl-4">
               <div className="blog-box wow fadeInDown">
                 <div className="blog-img">
-                  <img src="/img/blog/blog_2_4.jpg" alt="blog image" />
+                 <img src="/img/blog/blog_2_4.jpg" alt="blog image" />
                   <div className="blog-wrapper">
                     <span className="blog-box_date">28</span>
                     <span className="blog-box_month">Aug 2024</span>
@@ -184,7 +184,7 @@ export default function Blog() {
           data-top="5%"
           data-left="0%"
         >
-          <img src="/img/shape/leaves_3.png" alt="shape" />
+         <img src="/img/shape/leaves_3.png" alt="shape" />
         </div>
       </section>
       </>

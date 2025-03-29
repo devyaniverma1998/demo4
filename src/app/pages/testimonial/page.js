@@ -43,7 +43,7 @@ export default function Testimonial() {
           <div className="row">
             <div className="title-area text-center mb-25">
               <span className="sub-title style2">Testimonials</span>
-              <img src="/img/theme-img/title_shape_1.svg" alt="" />
+             <img src="/img/theme-img/title_shape_1.svg" alt="not found" />
               <h2 className="sec-title">Our Customer Feedback</h2>
             </div>
           </div>
@@ -59,7 +59,7 @@ export default function Testimonial() {
             <div className="col-md-6 col-lg-4">
               <div className="testi-grid wow fadeInUp">
                 <div className="testi-grid_img">
-                  <img src="/img/testimonial/testi_2_3.jpg" alt="" />
+                 <img src="/img/testimonial/testi_2_3.jpg" alt="not found" />
                 </div>
                 <h3 className="box-title">
                   Continually utilize 24/365 bandwidth before real-time
@@ -73,20 +73,20 @@ export default function Testimonial() {
                   </div>
                 </div>
                 <div className="testi-quote">
-                  <img src="/img/shape/quote_2.png" alt="" />
+                 <img src="/img/shape/quote_2.png" alt="not found" />
                 </div>
                 <div className="testi-shape1">
-                  <img src="/img/shape/leaf_2.svg" alt="" />
+                 <img src="/img/shape/leaf_2.svg" alt="not found" />
                 </div>
                 <div className="testi-shape2">
-                  <img src="/img/shape/flower_1_6.svg" alt="" />
+                 <img src="/img/shape/flower_1_6.svg" alt="not found" />
                 </div>
               </div>
             </div>
             <div className="col-md-6 col-lg-4">
               <div className="testi-grid wow fadeInDown">
                 <div className="testi-grid_img">
-                  <img src="/img/testimonial/testi_2_4.jpg" alt="" />
+                 <img src="/img/testimonial/testi_2_4.jpg" alt="not found" />
                 </div>
                 <h3 className="box-title">
                   Intrinsicly pontifice pandemic ships growth strategies and
@@ -100,20 +100,20 @@ export default function Testimonial() {
                   </div>
                 </div>
                 <div className="testi-quote">
-                  <img src="/img/shape/quote_2.png" alt="" />
+                 <img src="/img/shape/quote_2.png" alt="not found" />
                 </div>
                 <div className="testi-shape1">
-                  <img src="/img/shape/leaf_2.svg" alt="" />
+                 <img src="/img/shape/leaf_2.svg" alt="not found" />
                 </div>
                 <div className="testi-shape2">
-                  <img src="/img/shape/flower_1_6.svg" alt="" />
+                 <img src="/img/shape/flower_1_6.svg" alt="not found" />
                 </div>
               </div>
             </div>
             <div className="col-md-6 col-lg-4">
               <div className="testi-grid wow fadeInUp">
                 <div className="testi-grid_img">
-                  <img src="/img/testimonial/testi_2_1.jpg" alt="" />
+                 <img src="/img/testimonial/testi_2_1.jpg" alt="not found" />
                 </div>
                 <h3 className="box-title">
                   Whether youre preparing for a special occasion or simply want to
@@ -127,20 +127,20 @@ export default function Testimonial() {
                   </div>
                 </div>
                 <div className="testi-quote">
-                  <img src="/img/shape/quote_2.png" alt="" />
+                 <img src="/img/shape/quote_2.png" alt="not found" />
                 </div>
                 <div className="testi-shape1">
-                  <img src="/img/shape/leaf_2.svg" alt="" />
+                 <img src="/img/shape/leaf_2.svg" alt="not found" />
                 </div>
                 <div className="testi-shape2">
-                  <img src="/img/shape/flower_1_6.svg" alt="" />
+                 <img src="/img/shape/flower_1_6.svg" alt="not found" />
                 </div>
               </div>
             </div>
             <div className="col-md-6 col-lg-4">
               <div className="testi-grid wow fadeInDown">
                 <div className="testi-grid_img">
-                  <img src="/img/testimonial/testi_2_2.jpg" alt="" />
+                 <img src="/img/testimonial/testi_2_2.jpg" alt="not found" />
                 </div>
                 <h3 className="box-title">
                   Parallel task user friendly through supply are chains.
@@ -154,20 +154,20 @@ export default function Testimonial() {
                   </div>
                 </div>
                 <div className="testi-quote">
-                  <img src="/img/shape/quote_2.png" alt="" />
+                 <img src="/img/shape/quote_2.png" alt="not found" />
                 </div>
                 <div className="testi-shape1">
-                  <img src="/img/shape/leaf_2.svg" alt="" />
+                 <img src="/img/shape/leaf_2.svg" alt="not found" />
                 </div>
                 <div className="testi-shape2">
-                  <img src="/img/shape/flower_1_6.svg" alt="" />
+                 <img src="/img/shape/flower_1_6.svg" alt="not found" />
                 </div>
               </div>
             </div>
             <div className="col-md-6 col-lg-4">
               <div className="testi-grid wow fadeInUp">
                 <div className="testi-grid_img">
-                  <img src="/img/testimonial/testi_2_3.jpg" alt="" />
+                 <img src="/img/testimonial/testi_2_3.jpg" alt="not found" />
                 </div>
                 <h3 className="box-title">
                   Continually utilize 24/365 bandwidth before real-time
@@ -181,20 +181,20 @@ export default function Testimonial() {
                   </div>
                 </div>
                 <div className="testi-quote">
-                  <img src="/img/shape/quote_2.png" alt="" />
+                 <img src="/img/shape/quote_2.png" alt="not found" />
                 </div>
                 <div className="testi-shape1">
-                  <img src="/img/shape/leaf_2.svg" alt="" />
+                 <img src="/img/shape/leaf_2.svg" alt="not found" />
                 </div>
                 <div className="testi-shape2">
-                  <img src="/img/shape/flower_1_6.svg" alt="" />
+                 <img src="/img/shape/flower_1_6.svg" alt="not found" />
                 </div>
               </div>
             </div>
             <div className="col-md-6 col-lg-4">
               <div className="testi-grid wow fadeInDown">
                 <div className="testi-grid_img">
-                  <img src="/img/testimonial/testi_2_4.jpg" alt="" />
+                 <img src="/img/testimonial/testi_2_4.jpg" alt="not found" />
                 </div>
                 <h3 className="box-title">
                   Intrinsicly pontifice pandemic ships growth strategies and
@@ -208,13 +208,13 @@ export default function Testimonial() {
                   </div>
                 </div>
                 <div className="testi-quote">
-                  <img src="/img/shape/quote_2.png" alt="" />
+                 <img src="/img/shape/quote_2.png" alt="not found" />
                 </div>
                 <div className="testi-shape1">
-                  <img src="/img/shape/leaf_2.svg" alt="" />
+                 <img src="/img/shape/leaf_2.svg" alt="not found" />
                 </div>
                 <div className="testi-shape2">
-                  <img src="/img/shape/flower_1_6.svg" alt="" />
+                 <img src="/img/shape/flower_1_6.svg" alt="not found" />
                 </div>
               </div>
             </div>

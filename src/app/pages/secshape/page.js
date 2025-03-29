@@ -5,7 +5,7 @@ export default function SecShape() {
         <>
             <div className="sec-shape">
                 <span className="sec-shape_img">
-                    <img src="/img/icon/girl.svg" alt="" />
+                   <img src="/img/icon/girl.svg" alt="not found" />
                 </span>
             </div>
         </>

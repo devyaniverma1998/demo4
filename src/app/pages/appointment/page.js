@@ -16,7 +16,7 @@ export default function Appointment() {
                             <div className="title-area mb-25 text-center text-lg-start">
                                 <span className="sub-title text-white">
                                     Make An Appointment
-                                    <img src="/img/theme-img/title_right2.svg" alt="" />
+                                   <img src="/img/theme-img/title_right2.svg" alt="not found" />
                                 </span>
                                 <h2 className="sec-title text-white">
                                     Experience the Magic of Our Nail Styling Services

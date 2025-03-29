@@ -155,7 +155,7 @@ export default function Footer() {
         data-bottom="0%"
         data-right="0%"
       >
-        <img src="/img/shape/leaves_5.png" alt="shape" />
+       <img src="/img/shape/leaves_5.png" alt="shape" />
       </div>
       <div className="scroll-top">
         <svg

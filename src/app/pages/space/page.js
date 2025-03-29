@@ -9,7 +9,7 @@ export default function Space(){
               <div className="price-box-wrapper">
                 <div className="title-area text-center">
                   <span className="sub-title">Nail & Hand Care</span>
-                  <img src="/img/theme-img/title_shape_1.svg" alt="" />
+                 <img src="/img/theme-img/title_shape_1.svg" alt="not found" />
                   <h2 className="sec-title">Our Nails Treatments & Prices</h2>
                 </div>
                 <div className="price-box wow fadeInUp">
