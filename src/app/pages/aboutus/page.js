@@ -20,7 +20,7 @@ export default function AboutUs() {
                     </div>
                 </div>
                 <div className="video-group text-center">
-                    <a href="about.html" className="th-btn"
+                    <a href="/about" className="th-btn"
                     >More About Us<i className="fa-regular fa-arrow-right ms-2"></i
                     ></a>
                     <a href="tel:+256214203215" className="th-btn style2"

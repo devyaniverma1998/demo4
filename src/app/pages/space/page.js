@@ -13,7 +13,7 @@ export default function Space(){
                 <div className="price-box wow fadeInUp">
                   <div className="price-box_wrapp">
                     <div className="price-box_content">
-                      <h4 className="box-title"><a href="price.html">Manicure</a></h4>
+                      <h4 className="box-title"><a href="/pages/price">Manicure</a></h4>
                       <p className="price-box_desc">Elemental tempus getas</p>
                     </div>
                     <span className="price-box_price">$26</span>
@@ -23,7 +23,7 @@ export default function Space(){
                   <div className="price-box_wrapp">
                     <div className="price-box_content">
                       <h4 className="box-title">
-                        <a href="price.html">Nail Clippers</a>
+                        <a href="/pages/price">Nail Clippers</a>
                       </h4>
                       <p className="price-box_desc">
                         Quality products, customized services
@@ -36,7 +36,7 @@ export default function Space(){
                   <div className="price-box_wrapp">
                     <div className="price-box_content">
                       <h4 className="box-title">
-                        <a href="price.html">Manicure & Pedicure</a>
+                        <a href="/pages/price">Manicure & Pedicure</a>
                       </h4>
                       <p className="price-box_desc">Premium quality nail polishes</p>
                     </div>
@@ -47,7 +47,7 @@ export default function Space(){
                   <div className="price-box_wrapp">
                     <div className="price-box_content">
                       <h4 className="box-title">
-                        <a href="price.html">Hand/nail Moisturizer</a>
+                        <a href="/pages/price">Hand/nail Moisturizer</a>
                       </h4>
                       <p className="price-box_desc">
                         Rejuvenating hand or foot massage
@@ -59,7 +59,7 @@ export default function Space(){
                 <div className="price-box wow fadeInUp">
                   <div className="price-box_wrapp">
                     <div className="price-box_content">
-                      <h4 className="box-title"><a href="price.html">Nail Art</a></h4>
+                      <h4 className="box-title"><a href="/pages/price">Nail Art</a></h4>
                       <p className="price-box_desc">Vibrant colors, finishes</p>
                     </div>
                     <span className="price-box_price">$46</span>

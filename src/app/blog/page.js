@@ -67,20 +67,20 @@ export default function Blog() {
                 </div>
                 <div className="blog-box_content">
                   <div className="blog-meta">
-                    <a href="blog.html"
+                    <a href="/blog"
                     ><i className="fa-regular fa-user"></i>Post By
                       <span className="blog-post">Admin</span></a
                     >
-                    <a href="blog.html"
+                    <a href="/blog"
                     ><i className="fa-regular fa-comments"></i>Comments (3)</a
                     >
                   </div>
                   <h3 className="box-title">
-                    <a href="blog-details.html"
+                    <a href="/blog"
                     >Maintaining Health and Beauty Through Spas</a
                     >
                   </h3>
-                  <a href="blog-details.html" className="half-line-btn"
+                  <a href="/blog" className="half-line-btn"
                   >Read More<i className="fa-solid fa-arrow-right ms-2"></i
                   ></a>
                 </div>
@@ -97,20 +97,20 @@ export default function Blog() {
                 </div>
                 <div className="blog-box_content">
                   <div className="blog-meta">
-                    <a href="blog.html"
+                    <a href="/blog"
                     ><i className="fa-regular fa-user"></i>Post By
                       <span className="blog-post">Admin</span></a
                     >
-                    <a href="blog.html"
+                    <a href="/blog"
                     ><i className="fa-regular fa-comments"></i>Comments (3)</a
                     >
                   </div>
                   <h3 className="box-title">
-                    <a href="blog-details.html"
+                    <a href="/blog"
                     >Do Massages Have Real Health Benefits?</a
                     >
                   </h3>
-                  <a href="blog-details.html" className="half-line-btn"
+                  <a href="/blog" className="half-line-btn"
                   >Read More<i className="fa-solid fa-arrow-right ms-2"></i
                   ></a>
                 </div>
@@ -127,20 +127,20 @@ export default function Blog() {
                 </div>
                 <div className="blog-box_content">
                   <div className="blog-meta">
-                    <a href="blog.html"
+                    <a href="/blog"
                     ><i className="fa-regular fa-user"></i>Post By
                       <span className="blog-post">Admin</span></a
                     >
-                    <a href="blog.html"
+                    <a href="/blog"
                     ><i className="fa-regular fa-comments"></i>Comments (3)</a
                     >
                   </div>
                   <h3 className="box-title">
-                    <a href="blog-details.html"
+                    <a href="/blog"
                     >Ultra Glam Gold Nail Polishes for Holiday.</a
                     >
                   </h3>
-                  <a href="blog-details.html" className="half-line-btn"
+                  <a href="/blog" className="half-line-btn"
                   >Read More<i className="fa-solid fa-arrow-right ms-2"></i
                   ></a>
                 </div>
@@ -157,20 +157,20 @@ export default function Blog() {
                 </div>
                 <div className="blog-box_content">
                   <div className="blog-meta">
-                    <a href="blog.html"
+                    <a href="/blog"
                     ><i className="fa-regular fa-user"></i>Post By
                       <span className="blog-post">Admin</span></a
                     >
-                    <a href="blog.html"
+                    <a href="/blog"
                     ><i className="fa-regular fa-comments"></i>Comments (3)</a
                     >
                   </div>
                   <h3 className="box-title">
-                    <a href="blog-details.html"
+                    <a href="/blog"
                     >A Relaxation of the Senses with Their Help</a
                     >
                   </h3>
-                  <a href="blog-details.html" className="half-line-btn"
+                  <a href="/blog" className="half-line-btn"
                   >Read More<i className="fa-solid fa-arrow-right ms-2"></i
                   ></a>
                 </div>

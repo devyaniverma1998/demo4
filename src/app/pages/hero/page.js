@@ -108,7 +108,7 @@ export default function Hero() {
                     data-ani="slideinup"
                     data-ani-delay="0.3s"
                   >
-                    <a href="about.html" className="th-btn">
+                    <a href="/about" className="th-btn">
                       Discover More
                       <i className="fa-regular fa-arrow-right ms-2"></i>
                     </a>
@@ -189,7 +189,7 @@ export default function Hero() {
                     data-ani="slideinup"
                     data-ani-delay="0.3s"
                   >
-                    <a href="about.html" className="th-btn">
+                    <a href="/about" className="th-btn">
                       Discover More
                       <i className="fa-regular fa-arrow-right ms-2"></i>
                     </a>
@@ -270,7 +270,7 @@ export default function Hero() {
                     data-ani="slideinup"
                     data-ani-delay="0.3s"
                   >
-                    <a href="about.html" className="th-btn">
+                    <a href="/about" className="th-btn">
                       Discover More
                       <i className="fa-regular fa-arrow-right ms-2"></i>
                     </a>

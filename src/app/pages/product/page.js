@@ -44,11 +44,11 @@ export default function Product() {
                             <div className="product-img">
                                 <img src="/img/product/product_1_1.jpg" alt="Product Image" />
                                 <div className="product-action style1">
-                                    <a href="cart.html">
+                                    <a href="/">
                                         <span className="action-text">Add To Cart</span>
                                         <span className="icon"><i className="fa-regular fa-cart-shopping"></i></span>
                                     </a>
-                                    <a href="wishlist.html">
+                                    <a href="/">
                                         <span className="action-text">Wishlist</span>
                                         <span className="icon"><i className="fal fa-heart"></i></span>
                                     </a>
@@ -57,10 +57,10 @@ export default function Product() {
                             <div className="product-grid_wrapper">
                                 <div className="product-content">
                                     <h3 className="box-title">
-                                        <a className="text-inherit" href="shop-details.html">OPI Nail Polish</a>
+                                        <a className="text-inherit" href="/">OPI Nail Polish</a>
                                     </h3>
                                     <div className="product-category">
-                                        <a href="shop.html">Popular</a>
+                                        <a href="/">Popular</a>
                                     </div>
                                 </div>
                                 <div className="product-grid_content">
@@ -76,11 +76,11 @@ export default function Product() {
                             <div className="product-img">
                                 <img src="/img/product/product_1_2.jpg" alt="Product Image" />
                                 <div className="product-action style1">
-                                    <a href="cart.html">
+                                    <a href="/">
                                         <span className="action-text">Add To Cart</span>
                                         <span className="icon"><i className="fa-regular fa-cart-shopping"></i></span>
                                     </a>
-                                    <a href="wishlist.html">
+                                    <a href="/">
                                         <span className="action-text">Wishlist</span>
                                         <span className="icon"><i className="fal fa-heart"></i></span>
                                     </a>
@@ -89,10 +89,10 @@ export default function Product() {
                             <div className="product-grid_wrapper">
                                 <div className="product-content">
                                     <h3 className="box-title">
-                                        <a className="text-inherit" href="shop-details.html">Sunscreen Lotion</a>
+                                        <a className="text-inherit" href="/">Sunscreen Lotion</a>
                                     </h3>
                                     <div className="product-category">
-                                        <a href="shop.html">Brand</a>
+                                        <a href="/">Brand</a>
                                     </div>
                                 </div>
                                 <div className="product-grid_content">
@@ -108,11 +108,11 @@ export default function Product() {
                             <div className="product-img">
                                 <img src="/img/product/product_1_3.jpg" alt="Product Image" />
                                 <div className="product-action style1">
-                                    <a href="cart.html">
+                                    <a href="/">
                                         <span className="action-text">Add To Cart</span>
                                         <span className="icon"><i className="fa-regular fa-cart-shopping"></i></span>
                                     </a>
-                                    <a href="wishlist.html">
+                                    <a href="/">
                                         <span className="action-text">Wishlist</span>
                                         <span className="icon"><i className="fal fa-heart"></i></span>
                                     </a>
@@ -121,10 +121,10 @@ export default function Product() {
                             <div className="product-grid_wrapper">
                                 <div className="product-content">
                                     <h3 className="box-title">
-                                        <a className="text-inherit" href="shop-details.html">Wholesale Liquid</a>
+                                        <a className="text-inherit" href="/">Wholesale Liquid</a>
                                     </h3>
                                     <div className="product-category">
-                                        <a href="shop.html">Classic</a>
+                                        <a href="/">Classic</a>
                                     </div>
                                 </div>
                                 <div className="product-grid_content">
@@ -140,11 +140,11 @@ export default function Product() {
                             <div className="product-img">
                                 <img src="/img/product/product_1_4.jpg" alt="Product Image" />
                                 <div className="product-action style1">
-                                    <a href="cart.html">
+                                    <a href="/">
                                         <span className="action-text">Add To Cart</span>
                                         <span className="icon"><i className="fa-regular fa-cart-shopping"></i></span>
                                     </a>
-                                    <a href="wishlist.html">
+                                    <a href="/">
                                         <span className="action-text">Wishlist</span>
                                         <span className="icon"><i className="fal fa-heart"></i></span>
                                     </a>
@@ -153,10 +153,10 @@ export default function Product() {
                             <div className="product-grid_wrapper">
                                 <div className="product-content">
                                     <h3 className="box-title">
-                                        <a className="text-inherit" href="shop-details.html">Hair Dryers</a>
+                                        <a className="text-inherit" href="/">Hair Dryers</a>
                                     </h3>
                                     <div className="product-category">
-                                        <a href="shop.html">Cosmetic</a>
+                                        <a href="/">Cosmetic</a>
                                     </div>
                                 </div>
                                 <div className="product-grid_content">

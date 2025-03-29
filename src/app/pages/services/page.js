@@ -16,7 +16,7 @@ export default function Services(){
               </div>
               <div className="service-item_wrapper">
                 <h3 className="box-title">
-                  <a href="service-details.html">Nail Manicure</a>
+                  <a href="/serve">Nail Manicure</a>
                 </h3>
                 <div className="service-item_icon">
                   <i className="fa-regular fa-arrow-right"></i>
@@ -29,7 +29,7 @@ export default function Services(){
               </div>
               <div className="service-item_wrapper">
                 <h3 className="box-title">
-                  <a href="service-details.html">Nail Art</a>
+                  <a href="/serve">Nail Art</a>
                 </h3>
                 <div className="service-item_icon">
                   <i className="fa-regular fa-arrow-right"></i>
@@ -53,7 +53,7 @@ export default function Services(){
               </div>
               <div className="service-item_wrapper">
                 <h3 className="box-title">
-                  <a href="service-details.html">Nail Pedicure</a>
+                  <a href="/serve">Nail Pedicure</a>
                 </h3>
                 <div className="service-item_icon">
                   <i className="fa-regular fa-arrow-right"></i>
@@ -66,7 +66,7 @@ export default function Services(){
               </div>
               <div className="service-item_wrapper">
                 <h3 className="box-title">
-                  <a href="service-details.html">Nail Paraffin Hands</a>
+                  <a href="/serve">Nail Paraffin Hands</a>
                 </h3>
                 <div className="service-item_icon">
                   <i className="fa-regular fa-arrow-right"></i>
