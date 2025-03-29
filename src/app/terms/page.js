@@ -2,10 +2,10 @@ export default function Terms() {
   return (
     <div className="p-5 container mx-auto">
       {/* Section Title */}
-      <h1 className="text-4xl font-bold text-center text-warning mb-6">Terms of Service</h1>
+      <h1 className="text-4xl font-bold text-center  mb-6">Terms of Service</h1>
 
       {/* Terms Content */}
-      <div className="max-w-2xl mx-auto bg-white p-5 shadow-lg rounded-lg">
+      <div className="max-w-2xl mx-auto bg-white p-5 ">
         <p className="text-lg text-gray-700 mb-4">
           These terms and conditions outline the rules and regulations for the use of our website.
         </p>

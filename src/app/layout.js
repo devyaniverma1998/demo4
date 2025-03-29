@@ -3,6 +3,8 @@ import "./globals.css";
 import Header from "@/components/header/page";
 import Footer from "@/components/footer/page";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "@fortawesome/fontawesome-free/css/all.min.css";
+
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
