@@ -1,5 +1,5 @@
 "use client"; // Ensure it's a client component
-
+import Image from "next/image";
 export default function Appointment() {
     const bgImage = "/img/bg/appointment_bg_2.jpg"; // Change this dynamically if needed
 

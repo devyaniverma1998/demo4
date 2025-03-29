@@ -1,6 +1,7 @@
 "use client"; // ✅ Ensure this runs only on the client
 import Link from "next/link";
 import { useEffect, useRef } from "react";
+import Image from "next/image";
 // Remove jQuery dependency if possible, or ensure it's properly installed
 // import $ from "jquery";
 import "slick-carousel/slick/slick.css";

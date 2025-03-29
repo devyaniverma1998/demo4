@@ -1,4 +1,5 @@
 import Link from "next/link"
+import Image from "next/image";
 export default function Space(){
     return(
         <section className="space" style={{ backgroundImage: "url('/img/bg/price_bg_1.jpg')" }}>

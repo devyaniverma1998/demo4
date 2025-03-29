@@ -1,3 +1,6 @@
+import Image from "next/image";
+import Link from "next/link";
+
 export default function Choose(){
     return(
         <div className="choose-area overflow-hidden space-bottom" style={{ backgroundImage: "url('/img/bg/choose_bg_1.jpg')" }}>
@@ -41,7 +44,7 @@ export default function Choose(){
                     <div className="media-body">
                       <h3 className="box-title">Best Place</h3>
                       <p className="choose-about_text">
-                        That's why we only use premium quality nail polishes, gel,
+                        That is why we only use premium quality nail polishes, gel,
                         and other nail products from trusted brands.
                       </p>
                     </div>
@@ -53,7 +56,7 @@ export default function Choose(){
                     <div className="media-body">
                       <h3 className="box-title">Special Support</h3>
                       <p className="choose-about_text">
-                        That's why we only use premium quality nail polishes, gel,
+                        That is why we only use premium quality nail polishes, gel,
                         and other nail products from trusted brands.
                       </p>
                     </div>

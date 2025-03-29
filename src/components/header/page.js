@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-
+import Image from "next/image";
 export default function Header() {
 
 
@@ -62,8 +62,9 @@ export default function Header() {
                             <div className="col-auto">
                                 <div className="header-logo">
                                     <Link href="/"
-                                    ><img src="/img/logo-black.svg" alt="Rasm"
-                                        /></Link >
+                                    >
+                                       <h2>Rasm</h2>
+                                        </Link >
                                 </div>
                             </div>
                             <div className="col-auto me-xl-auto">

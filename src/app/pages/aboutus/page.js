@@ -1,4 +1,5 @@
 import Link from "next/link"
+import Image from "next/image";
 export default function AboutUs() {
     return (
       <>
@@ -13,8 +14,8 @@ export default function AboutUs() {
                         </h2>
                         <p className="sec-text">
                             At our Nail Style Salon, we understand that each client is unique,
-                            and their nail preferences vary. That's why we offer customized
-                            nail services tailored to your specific needs. Whether you're
+                            and their nail preferences vary. Thats why we offer customized
+                            nail services tailored to your specific needs. Whether you are
                             looking for a classNameic French manicure, a chic and sophisticated
                             look for a special event.
                         </p>
